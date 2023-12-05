@@ -35,7 +35,7 @@ Clone the repository:
 bash
 Copy code
 
-git clone https://github.com/yourusername/insurance-fraud-detection.git
+git clone https://github.com/sohamdalal18/insurance-fraud-detection.git
 cd insurance-fraud-detection
 
 Install the required dependencies:
